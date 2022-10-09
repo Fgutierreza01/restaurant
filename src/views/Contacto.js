@@ -16,7 +16,7 @@ const Contacto = () =>{
         toast.success('Mensaje Enviado!')
     }
     return(
-      <div>
+      <div className="contact">
         <h1>Contacto</h1>
         <Toaster/>
         <form>

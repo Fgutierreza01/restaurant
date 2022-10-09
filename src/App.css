@@ -1,0 +1,31 @@
+Nav{
+    background-color: aqua;
+}
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+  }
+  label {
+    display: block;
+    margin: 0.5rem 0;
+  }
+  
+  input,
+  textarea,
+  select {
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+  }
+  
+  input, textarea {
+    background-color:aliceblue;
+    border: 1px solid #0a0a23;
+    color: #ffffff;
+  }
+  h1{
+    text-align: center;
+  }
+  

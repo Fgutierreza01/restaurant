@@ -8,7 +8,7 @@ function CustomNavbar() {
     <Container>
       <Navbar expand="lg" variant="light" bg="light">
         <Container>
-          <Navbar.Brand ><IoRestaurantSharp/>  Nombre Restaurant</Navbar.Brand>
+          <Navbar.Brand ><IoRestaurantSharp/> Señor Jabalí</Navbar.Brand>
           <Link to="/">Home</Link>
           <Link to="/contacto">Contacto</Link>
         </Container>

@@ -1,6 +1,7 @@
+import Cards from "../components/Cards"
 const Home = () =>{
     return (
-        <div>home</div>
+ <Cards/>
     )
 }
 export default Home
